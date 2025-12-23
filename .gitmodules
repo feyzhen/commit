@@ -1,3 +1,6 @@
 [submodule "ultralytics"]
 	path = ultralytics
 	url = git@github.com:ultralytics/ultralytics.git
+[submodule "Pytorch-UNet"]
+	path = Pytorch-UNet
+	url = git@github.com:milesial/Pytorch-UNet.git
